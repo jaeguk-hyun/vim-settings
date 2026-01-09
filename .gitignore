@@ -1,0 +1,3 @@
+temp_dirs/undodir/*
+.DS_Store
+__pycache__
